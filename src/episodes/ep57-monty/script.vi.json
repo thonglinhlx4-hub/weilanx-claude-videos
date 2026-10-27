@@ -1,0 +1,250 @@
+{
+ "fps": 30,
+ "bar": 1.8461538461538463,
+ "total": 112.833,
+ "frames": 3385,
+ "scenes": {
+  "hook": 0,
+  "fight": 554,
+  "why": 1218,
+  "cases": 1772,
+  "million": 2326,
+  "end": 2769,
+  "climax": 2935
+ },
+ "climax_line": 20,
+ "climax_hold": 0.6,
+ "cut_t": 3.79,
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "vi": "Trước mặt bạn có ba cánh cửa. Sau một cửa là chiếc ô tô, hai cửa còn lại là con dê.",
+   "spoken": "Trước mặt bạn có ba cánh cửa. Sau một cửa là chiếc ô tô, hai cửa còn lại là con dê.",
+   "f0": 15,
+   "f1": 183,
+   "start": 0.5,
+   "end": 6.1
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "vi": "Bạn chọn cửa số một.",
+   "spoken": "Bạn chọn cửa số một.",
+   "f0": 204,
+   "f1": 241,
+   "start": 6.8,
+   "end": 8.033
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "vi": "Người dẫn chương trình biết hết. Ông mở cửa số ba: một con dê.",
+   "spoken": "Người dẫn chương trình biết hết. Ông mở cửa số ba: một con dê.",
+   "f0": 259,
+   "f1": 391,
+   "start": 8.633,
+   "end": 13.033
+  },
+  {
+   "i": 3,
+   "scene": "hook",
+   "vi": "Rồi ông hỏi: bạn giữ cửa một, hay đổi sang cửa hai?",
+   "spoken": "Rồi ông hỏi: bạn giữ cửa một, hay đổi sang cửa hai?",
+   "f0": 408,
+   "f1": 502,
+   "start": 13.6,
+   "end": 16.733
+  },
+  {
+   "i": 4,
+   "scene": "fight",
+   "vi": "Đa số sẽ nghĩ: còn hai cửa, 50/50, đổi làm gì.",
+   "spoken": "Đa số sẽ nghĩ: còn hai cửa, năm mươi năm mươi, đổi làm gì.",
+   "f0": 563,
+   "f1": 678,
+   "start": 18.767,
+   "end": 22.6
+  },
+  {
+   "i": 5,
+   "scene": "fight",
+   "vi": "Năm 1990, Marilyn vos Savant trả lời trên tạp chí Parade: hãy đổi, cơ hội thắng gấp đôi.",
+   "spoken": "Năm một nghìn chín trăm chín mươi, Ma-ri-lin vốt Xa-vân trả lời trên tạp chí Pa-rết: hãy đổi, cơ hội thắng gấp đôi.",
+   "f0": 692,
+   "f1": 875,
+   "start": 23.067,
+   "end": 29.167
+  },
+  {
+   "i": 6,
+   "scene": "fight",
+   "vi": "Khoảng 10.000 lá thư gửi về, gần 1.000 người có bằng tiến sĩ, phần lớn bảo bà sai.",
+   "spoken": "Khoảng mười nghìn lá thư gửi về, gần một nghìn người có bằng tiến sĩ, phần lớn bảo bà sai.",
+   "f0": 890,
+   "f1": 1032,
+   "start": 29.667,
+   "end": 34.4
+  },
+  {
+   "i": 7,
+   "scene": "fight",
+   "vi": "Ngay cả nhà toán học lừng danh Paul Erdős cũng không tin, cho đến khi xem máy tính mô phỏng.",
+   "spoken": "Ngay cả nhà toán học lừng danh Pôn Ẹc-đốt cũng không tin, cho đến khi xem máy tính mô phỏng.",
+   "f0": 1047,
+   "f1": 1184,
+   "start": 34.9,
+   "end": 39.467
+  },
+  {
+   "i": 8,
+   "scene": "why",
+   "vi": "Bí mật nằm ở lúc bạn chọn lần đầu.",
+   "spoken": "Bí mật nằm ở lúc bạn chọn lần đầu.",
+   "f0": 1227,
+   "f1": 1284,
+   "start": 40.9,
+   "end": 42.8
+  },
+  {
+   "i": 9,
+   "scene": "why",
+   "vi": "Cửa 1 có 1/3 cơ hội. Hai cửa kia gộp lại: 2/3.",
+   "spoken": "Cửa một có một phần ba cơ hội. Hai cửa kia gộp lại: hai phần ba.",
+   "f0": 1296,
+   "f1": 1432,
+   "start": 43.2,
+   "end": 47.733
+  },
+  {
+   "i": 10,
+   "scene": "why",
+   "vi": "Người dẫn không mở bừa. Ông luôn mở một cửa có dê.",
+   "spoken": "Người dẫn không mở bừa. Ông luôn mở một cửa có dê.",
+   "f0": 1450,
+   "f1": 1559,
+   "start": 48.333,
+   "end": 51.967
+  },
+  {
+   "i": 11,
+   "scene": "why",
+   "vi": "Nên 2/3 ấy không biến mất. Nó dồn hết vào cửa còn lại.",
+   "spoken": "Nên hai phần ba ấy không biến mất. Nó dồn hết vào cửa còn lại.",
+   "f0": 1573,
+   "f1": 1703,
+   "start": 52.433,
+   "end": 56.767
+  },
+  {
+   "i": 12,
+   "scene": "cases",
+   "vi": "Thử cả ba trường hợp.",
+   "spoken": "Thử cả ba trường hợp.",
+   "f0": 1781,
+   "f1": 1817,
+   "start": 59.367,
+   "end": 60.567
+  },
+  {
+   "i": 13,
+   "scene": "cases",
+   "vi": "Xe ở cửa 1: đổi thì thua.",
+   "spoken": "Xe ở cửa một: đổi thì thua.",
+   "f0": 1828,
+   "f1": 1886,
+   "start": 60.933,
+   "end": 62.867
+  },
+  {
+   "i": 14,
+   "scene": "cases",
+   "vi": "Xe ở cửa 2: ông buộc phải mở cửa 3. Đổi thì thắng.",
+   "spoken": "Xe ở cửa hai: ông buộc phải mở cửa ba. Đổi thì thắng.",
+   "f0": 1902,
+   "f1": 2026,
+   "start": 63.4,
+   "end": 67.533
+  },
+  {
+   "i": 15,
+   "scene": "cases",
+   "vi": "Xe ở cửa 3: ông buộc phải mở cửa 2. Đổi thì thắng.",
+   "spoken": "Xe ở cửa ba: ông buộc phải mở cửa hai. Đổi thì thắng.",
+   "f0": 2040,
+   "f1": 2163,
+   "start": 68.0,
+   "end": 72.1
+  },
+  {
+   "i": 16,
+   "scene": "cases",
+   "vi": "2 trên 3 lần, người đổi cửa mang xe về.",
+   "spoken": "Hai trên ba lần, người đổi cửa mang xe về.",
+   "f0": 2176,
+   "f1": 2250,
+   "start": 72.533,
+   "end": 75.0
+  },
+  {
+   "i": 17,
+   "scene": "million",
+   "vi": "Vẫn chưa tin? Hãy tưởng tượng 1.000.000 cánh cửa.",
+   "spoken": "Vẫn chưa tin? Hãy tưởng tượng một triệu cánh cửa.",
+   "f0": 2335,
+   "f1": 2432,
+   "start": 77.833,
+   "end": 81.067
+  },
+  {
+   "i": 18,
+   "scene": "million",
+   "vi": "Bạn chọn một cửa. Người dẫn mở 999.998 cửa dê, chừa lại đúng một cửa.",
+   "spoken": "Bạn chọn một cửa. Người dẫn mở chín trăm chín mươi chín nghìn chín trăm chín mươi tám cửa dê, chừa lại đúng một cửa.",
+   "f0": 2446,
+   "f1": 2645,
+   "start": 81.533,
+   "end": 88.167
+  },
+  {
+   "i": 19,
+   "scene": "million",
+   "vi": "Bạn có còn giữ cửa của mình không?",
+   "spoken": "Bạn có còn giữ cửa của mình không?",
+   "f0": 2663,
+   "f1": 2714,
+   "start": 88.767,
+   "end": 90.467
+  },
+  {
+   "i": 20,
+   "scene": "end",
+   "vi": "Chạy thử 10.000 ván: giữ cửa thắng khoảng 1/3, đổi cửa thắng khoảng 2/3.",
+   "spoken": "Chạy thử mười nghìn ván: giữ cửa thắng khoảng một phần ba, đổi cửa thắng khoảng hai phần ba.",
+   "f0": 2802,
+   "f1": 2956,
+   "start": 93.4,
+   "end": 98.533
+  },
+  {
+   "i": 21,
+   "scene": "end",
+   "vi": "Trực giác thấy hai cửa là chia đôi. Nhưng thông tin người dẫn để lại đã làm lệch cán cân.",
+   "spoken": "Trực giác thấy hai cửa là chia đôi. Nhưng thông tin người dẫn để lại đã làm lệch cán cân.",
+   "f0": 2974,
+   "f1": 3124,
+   "start": 99.133,
+   "end": 104.133
+  },
+  {
+   "i": 22,
+   "scene": "end",
+   "vi": "Lần tới, khi ai đó mở bớt một cửa cho bạn, hãy tự hỏi: họ có biết gì không?",
+   "spoken": "Lần tới, khi ai đó mở bớt một cửa cho bạn, hãy tự hỏi: họ có biết gì không?",
+   "f0": 3140,
+   "f1": 3277,
+   "start": 104.667,
+   "end": 109.233
+  }
+ ]
+}

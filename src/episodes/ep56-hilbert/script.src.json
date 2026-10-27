@@ -1,0 +1,156 @@
+[
+[
+"hook",
+"Một khách sạn có vô số phòng, đánh số một, hai, ba… mãi không hết.",
+"Một khách sạn có vô số phòng: 1, 2, 3, … mãi không hết."
+],
+[
+"hook",
+"Đêm nay, phòng nào cũng đã kín khách.",
+"Đêm nay: KÍN PHÒNG."
+],
+[
+"hook",
+"Bỗng có thêm một vị khách. Liệu còn chỗ không?"
+],
+[
+"hook",
+"Câu trả lời lạ lùng là: vẫn còn."
+],
+[
+"hook",
+"Câu chuyện này do nhà toán học Đức Đa-vít Hin-bớt kể, hơn một trăm năm trước.",
+"Câu chuyện này do nhà toán học Đức David Hilbert kể, hơn 100 năm trước."
+],
+[
+"hook",
+"Năm một nghìn chín trăm bốn mươi bảy, nhà vật lý Ga-mốp đưa nó vào sách, và nó trở nên nổi tiếng.",
+"Năm 1947, nhà vật lý George Gamow đưa nó vào sách, và nó trở nên nổi tiếng."
+],
+[
+"one",
+"Cách của Hin-bớt: khách ở phòng en, hãy sang phòng en cộng một.",
+"Cách của Hilbert: phòng n → phòng n + 1"
+],
+[
+"one",
+"Không có phòng cuối cùng, nên ai cũng có chỗ để chuyển đến."
+],
+[
+"one",
+"Phòng một trống. Vị khách mới vào ở.",
+"Phòng 1 trống."
+],
+[
+"one",
+"Với vô hạn, kín phòng không có nghĩa là hết chỗ.",
+"Với vô hạn, “kín phòng” không có nghĩa là “hết chỗ”."
+],
+[
+"bus",
+"Rồi một chiếc xe buýt chở vô số khách mới đến.",
+"Xe buýt chở vô số khách: 1, 2, 3, …"
+],
+[
+"bus",
+"Lần này: phòng en sang phòng hai en. Một sang hai, hai sang bốn, ba sang sáu…",
+"n → 2n:  1 → 2,  2 → 4,  3 → 6, …"
+],
+[
+"bus",
+"Thế là mọi phòng số lẻ đều trống, đủ chỗ cho cả xe.",
+"Phòng lẻ trống: 1, 3, 5, 7, … đủ cho cả xe."
+],
+[
+"bus",
+"Còn nếu đến vô số xe buýt, mỗi xe chở vô số khách thì sao?",
+"∞ xe × ∞ khách?"
+],
+[
+"bus",
+"Vẫn xếp được, nhờ số nguyên tố. Khách cũ sang phòng hai mũ en.",
+"Vẫn xếp được. Khách cũ: n → 2ⁿ (2, 4, 8, 16, …)"
+],
+[
+"bus",
+"Xe thứ nhất vào các phòng ba mũ en, xe thứ hai năm mũ en, cứ thế mãi.",
+"Xe 1 → 3ⁿ · Xe 2 → 5ⁿ · Xe 3 → 7ⁿ · …"
+],
+[
+"bus",
+"Mỗi số chỉ phân tích ra thừa số nguyên tố theo một cách, nên không ai trùng phòng."
+],
+[
+"bus",
+"Và số nguyên tố thì không bao giờ hết.",
+"Số nguyên tố: vô tận."
+],
+[
+"cantor",
+"Nền móng của những điều này là lý thuyết tập hợp của Căng-to.",
+"Nền móng: lý thuyết tập hợp của Georg Cantor."
+],
+[
+"cantor",
+"Hai tập hợp lớn bằng nhau nếu ghép được một đổi một, không thừa ai.",
+"Lớn bằng nhau ⇔ ghép được một đổi một."
+],
+[
+"cantor",
+"Tập các số đếm có kích thước gọi là a-lép không: vô hạn đếm được.",
+"|{1, 2, 3, …}| = ℵ₀ — vô hạn đếm được"
+],
+[
+"cantor",
+"Thêm một người, hay thêm vô số xe, kích thước vẫn là a-lép không.",
+"ℵ₀ + 1 = ℵ₀    ℵ₀ + ℵ₀ = ℵ₀    ℵ₀ · ℵ₀ = ℵ₀"
+],
+[
+"cantor",
+"Đây là phép tính trên kích thước, chứ vô cực không phải một con số bình thường.",
+"Phép tính trên kích thước tập hợp — ∞ không phải một số thông thường."
+],
+[
+"twist",
+"Vậy khách sạn này chứa được mọi thứ vô hạn sao?"
+],
+[
+"twist",
+"Không. Năm một nghìn tám trăm chín mươi mốt, Căng-to đưa ra lập luận đường chéo.",
+"Không. Năm 1891, Cantor đưa ra lập luận đường chéo."
+],
+[
+"twist",
+"Thử xếp mọi số thực giữa không và một vào khách sạn, mỗi số một phòng.",
+"Mọi số thực giữa 0 và 1 — mỗi số một phòng?"
+],
+[
+"twist",
+"Rồi tạo một số mới: chữ số thứ nhất khác số ở phòng một, chữ số thứ hai khác số ở phòng hai, cứ thế mãi.",
+"Chữ số thứ 1 ≠ phòng 1, chữ số thứ 2 ≠ phòng 2, …"
+],
+[
+"twist",
+"Số ấy khác mọi vị khách. Nó không có phòng.",
+"Không phòng nào chứa nó."
+],
+[
+"twist",
+"Số thực không thể đánh số hết. Đó là một vô hạn lớn hơn.",
+"Số thực: không đếm được — một vô hạn lớn hơn ℵ₀."
+],
+[
+"end",
+"Chính Hin-bớt cho rằng vô hạn không hề có trong thực tế.",
+"Hilbert: vô hạn không hề có trong thực tế."
+],
+[
+"end",
+"Nhưng ông vẫn nói: không ai đuổi được chúng ta khỏi thiên đường mà Căng-to đã tạo ra.",
+"“Không ai đuổi được chúng ta khỏi thiên đường mà Cantor đã tạo ra.” — Hilbert, 1925"
+],
+[
+"end",
+"Một khách sạn kín phòng… mà cửa vẫn luôn mở cho thêm một vị khách."
+]
+]

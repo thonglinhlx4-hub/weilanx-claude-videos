@@ -1,0 +1,107 @@
+[
+[
+"hook",
+"Trước mặt bạn có ba cánh cửa. Sau một cửa là chiếc ô tô, hai cửa còn lại là con dê."
+],
+[
+"hook",
+"Bạn chọn cửa số một."
+],
+[
+"hook",
+"Người dẫn chương trình biết hết. Ông mở cửa số ba: một con dê."
+],
+[
+"hook",
+"Rồi ông hỏi: bạn giữ cửa một, hay đổi sang cửa hai?"
+],
+[
+"fight",
+"Đa số sẽ nghĩ: còn hai cửa, năm mươi năm mươi, đổi làm gì.",
+"Đa số sẽ nghĩ: còn hai cửa, 50/50, đổi làm gì."
+],
+[
+"fight",
+"Năm một nghìn chín trăm chín mươi, Ma-ri-lin vốt Xa-vân trả lời trên tạp chí Pa-rết: hãy đổi, cơ hội thắng gấp đôi.",
+"Năm 1990, Marilyn vos Savant trả lời trên tạp chí Parade: hãy đổi, cơ hội thắng gấp đôi."
+],
+[
+"fight",
+"Khoảng mười nghìn lá thư gửi về, gần một nghìn người có bằng tiến sĩ, phần lớn bảo bà sai.",
+"Khoảng 10.000 lá thư gửi về, gần 1.000 người có bằng tiến sĩ, phần lớn bảo bà sai."
+],
+[
+"fight",
+"Ngay cả nhà toán học lừng danh Pôn Ẹc-đốt cũng không tin, cho đến khi xem máy tính mô phỏng.",
+"Ngay cả nhà toán học lừng danh Paul Erdős cũng không tin, cho đến khi xem máy tính mô phỏng."
+],
+[
+"why",
+"Bí mật nằm ở lúc bạn chọn lần đầu."
+],
+[
+"why",
+"Cửa một có một phần ba cơ hội. Hai cửa kia gộp lại: hai phần ba.",
+"Cửa 1 có 1/3 cơ hội. Hai cửa kia gộp lại: 2/3."
+],
+[
+"why",
+"Người dẫn không mở bừa. Ông luôn mở một cửa có dê."
+],
+[
+"why",
+"Nên hai phần ba ấy không biến mất. Nó dồn hết vào cửa còn lại.",
+"Nên 2/3 ấy không biến mất. Nó dồn hết vào cửa còn lại."
+],
+[
+"cases",
+"Thử cả ba trường hợp."
+],
+[
+"cases",
+"Xe ở cửa một: đổi thì thua.",
+"Xe ở cửa 1: đổi thì thua."
+],
+[
+"cases",
+"Xe ở cửa hai: ông buộc phải mở cửa ba. Đổi thì thắng.",
+"Xe ở cửa 2: ông buộc phải mở cửa 3. Đổi thì thắng."
+],
+[
+"cases",
+"Xe ở cửa ba: ông buộc phải mở cửa hai. Đổi thì thắng.",
+"Xe ở cửa 3: ông buộc phải mở cửa 2. Đổi thì thắng."
+],
+[
+"cases",
+"Hai trên ba lần, người đổi cửa mang xe về.",
+"2 trên 3 lần, người đổi cửa mang xe về."
+],
+[
+"million",
+"Vẫn chưa tin? Hãy tưởng tượng một triệu cánh cửa.",
+"Vẫn chưa tin? Hãy tưởng tượng 1.000.000 cánh cửa."
+],
+[
+"million",
+"Bạn chọn một cửa. Người dẫn mở chín trăm chín mươi chín nghìn chín trăm chín mươi tám cửa dê, chừa lại đúng một cửa.",
+"Bạn chọn một cửa. Người dẫn mở 999.998 cửa dê, chừa lại đúng một cửa."
+],
+[
+"million",
+"Bạn có còn giữ cửa của mình không?"
+],
+[
+"end",
+"Chạy thử mười nghìn ván: giữ cửa thắng khoảng một phần ba, đổi cửa thắng khoảng hai phần ba.",
+"Chạy thử 10.000 ván: giữ cửa thắng khoảng 1/3, đổi cửa thắng khoảng 2/3."
+],
+[
+"end",
+"Trực giác thấy hai cửa là chia đôi. Nhưng thông tin người dẫn để lại đã làm lệch cán cân."
+],
+[
+"end",
+"Lần tới, khi ai đó mở bớt một cửa cho bạn, hãy tự hỏi: họ có biết gì không?"
+]
+]

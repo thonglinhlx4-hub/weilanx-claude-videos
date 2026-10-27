@@ -1,0 +1,58 @@
+{
+ "archimedes": {
+  "title": "Domenico-Fetti Archimedes 1620 (cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620_(cropped).jpg",
+  "license": "Public domain",
+  "artist": "Domenico Fetti",
+  "w": 542,
+  "h": 727
+ },
+ "voyager": {
+  "title": "Voyager spacecraft.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg",
+  "license": "Public domain",
+  "artist": "NASA/JPL",
+  "w": 3017,
+  "h": 2494
+ },
+ "gps": {
+  "title": "GPS Satellite NASA art-iif.crop.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:GPS_Satellite_NASA_art-iif.crop.jpg",
+  "license": "Public domain",
+  "artist": "GPS_Satellite_NASA_art-iif.jpg: created by NASA\nderivative work: Fgnievinski (talk)",
+  "w": 277,
+  "h": 314
+ },
+ "earthmap": {
+  "title": "Whole world - land and oceans.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Whole_world_-_land_and_oceans.jpg",
+  "license": "Public domain",
+  "artist": "NASA Earth Observatory (NASA Goddard Space Flight Center)",
+  "w": 8192,
+  "h": 4096
+ },
+ "jpl": {
+  "title": "JPL's Space Flight Operations Facility - GPN-2003-00064.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:JPL%27s_Space_Flight_Operations_Facility_-_GPN-2003-00064.jpg",
+  "license": "Public domain",
+  "artist": "NASA",
+  "w": 1315,
+  "h": 1028
+ },
+ "bike": {
+  "title": "Bicycle front wheel (1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bicycle_front_wheel_(1).jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Cjp24",
+  "w": 2840,
+  "h": 2840
+ },
+ "potlid": {
+  "title": "A lid for a pot.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:A_lid_for_a_pot.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "BogTar201213",
+  "w": 3227,
+  "h": 2266
+ }
+}

@@ -3,7 +3,6 @@ out/
 .DS_Store
 
 # Generated or private media — never committed
-public/audio/
 public/footage/
 public/images/
 materials/
@@ -11,6 +10,8 @@ materials/
 *.m4a
 *.wav
 *.mp3
+# private repo: keep episode audio so cloud renders include sound
+!public/audio/**
 
 # 参考视频和拆解笔记（别人的作品，不进 git）
 template/

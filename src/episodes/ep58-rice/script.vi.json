@@ -1,0 +1,259 @@
+{
+ "fps": 30,
+ "bar": 1.8461538461538463,
+ "total": 104.033,
+ "frames": 3121,
+ "scenes": {
+  "hook": 0,
+  "legend": 277,
+  "half1": 775,
+  "half2": 1329,
+  "total": 1883,
+  "climax": 2049,
+  "earth": 2215,
+  "end": 2603
+ },
+ "climax_line": 17,
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "vi": "Một hạt gạo. Gấp đôi 63 lần.",
+   "spoken": "Một hạt gạo. Gấp đôi sáu mươi ba lần.",
+   "f0": 18,
+   "f1": 109,
+   "start": 0.6,
+   "end": 3.633
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "vi": "Kết quả đủ làm khánh kiệt  cả một vương quốc.",
+   "spoken": "Kết quả đủ làm khánh kiệt cả một vương quốc.",
+   "f0": 136,
+   "f1": 197,
+   "start": 4.533,
+   "end": 6.567
+  },
+  {
+   "i": 2,
+   "scene": "legend",
+   "vi": "Truyền thuyết kể rằng người nghĩ ra cờ vua  dâng trò chơi lên nhà vua.",
+   "spoken": "Truyền thuyết kể rằng người nghĩ ra cờ vua dâng trò chơi lên nhà vua.",
+   "f0": 286,
+   "f1": 382,
+   "start": 9.533,
+   "end": 12.733
+  },
+  {
+   "i": 3,
+   "scene": "legend",
+   "vi": "Vua cho tự chọn phần thưởng.",
+   "spoken": "Vua cho tự chọn phần thưởng.",
+   "f0": 400,
+   "f1": 445,
+   "start": 13.333,
+   "end": 14.833
+  },
+  {
+   "i": 4,
+   "scene": "legend",
+   "vi": "Ông chỉ xin: ô đầu một hạt gạo, ô sau gấp đôi ô trước, cứ thế đến hết 64 ô.",
+   "spoken": "Ông chỉ xin: ô đầu một hạt gạo, ô sau gấp đôi ô trước, cứ thế đến hết sáu mươi tư ô.",
+   "f0": 472,
+   "f1": 627,
+   "start": 15.733,
+   "end": 20.9
+  },
+  {
+   "i": 5,
+   "scene": "legend",
+   "vi": "Nhà vua bật cười, tưởng xin quá ít.",
+   "spoken": "Nhà vua bật cười, tưởng xin quá ít.",
+   "f0": 660,
+   "f1": 720,
+   "start": 22.0,
+   "end": 24.0
+  },
+  {
+   "i": 6,
+   "scene": "half1",
+   "vi": "Ô 1: một hạt.",
+   "spoken": "Ô một: một hạt.",
+   "f0": 784,
+   "f1": 819,
+   "start": 26.133,
+   "end": 27.3
+  },
+  {
+   "i": 7,
+   "scene": "half1",
+   "vi": "Ô 10: 512 hạt, chưa đầy nắm tay.",
+   "spoken": "Ô mười: năm trăm mười hai hạt, chưa đầy nắm tay.",
+   "f0": 843,
+   "f1": 932,
+   "start": 28.1,
+   "end": 31.067
+  },
+  {
+   "i": 8,
+   "scene": "half1",
+   "vi": "Ô 20: hơn nửa triệu hạt, khoảng 13 ký.",
+   "spoken": "Ô hai mươi: hơn nửa triệu hạt, khoảng mười ba ký.",
+   "f0": 965,
+   "f1": 1055,
+   "start": 32.167,
+   "end": 35.167
+  },
+  {
+   "i": 9,
+   "scene": "half1",
+   "vi": "Hết nửa bàn cờ, tổng cộng mới khoảng 100 tấn, bốn năm xe tải.",
+   "spoken": "Hết nửa bàn cờ, tổng cộng mới khoảng một trăm tấn, bốn năm xe tải.",
+   "f0": 1088,
+   "f1": 1204,
+   "start": 36.267,
+   "end": 40.133
+  },
+  {
+   "i": 10,
+   "scene": "half1",
+   "vi": "Vua vẫn trả được.",
+   "spoken": "Vua vẫn trả được.",
+   "f0": 1237,
+   "f1": 1267,
+   "start": 41.233,
+   "end": 42.233
+  },
+  {
+   "i": 11,
+   "scene": "half2",
+   "vi": "Nhưng nửa sau mới là ác mộng.",
+   "spoken": "Nhưng nửa sau mới là ác mộng.",
+   "f0": 1338,
+   "f1": 1387,
+   "start": 44.6,
+   "end": 46.233
+  },
+  {
+   "i": 12,
+   "scene": "half2",
+   "vi": "Mỗi ô mới bằng  tất cả các ô trước cộng lại, thêm một hạt.",
+   "spoken": "Mỗi ô mới bằng tất cả các ô trước cộng lại, thêm một hạt.",
+   "f0": 1417,
+   "f1": 1511,
+   "start": 47.233,
+   "end": 50.367
+  },
+  {
+   "i": 13,
+   "scene": "half2",
+   "vi": "Ô 40: gần 14.000 tấn.",
+   "spoken": "Ô bốn mươi: gần mười bốn nghìn tấn.",
+   "f0": 1547,
+   "f1": 1611,
+   "start": 51.567,
+   "end": 53.7
+  },
+  {
+   "i": 14,
+   "scene": "half2",
+   "vi": "Ô 50: 14 triệu tấn.",
+   "spoken": "Ô năm mươi: mười bốn triệu tấn.",
+   "f0": 1641,
+   "f1": 1699,
+   "start": 54.7,
+   "end": 56.633
+  },
+  {
+   "i": 15,
+   "scene": "half2",
+   "vi": "Riêng ô cuối: 9 tỷ tỷ hạt.",
+   "spoken": "Riêng ô cuối: chín tỷ tỷ hạt.",
+   "f0": 1732,
+   "f1": 1791,
+   "start": 57.733,
+   "end": 59.7
+  },
+  {
+   "i": 16,
+   "scene": "total",
+   "vi": "Cộng cả bàn cờ: 2⁶⁴ − 1,",
+   "spoken": "Cộng cả bàn cờ: hai mũ sáu mươi tư trừ một,",
+   "f0": 1892,
+   "f1": 1970,
+   "start": 63.067,
+   "end": 65.667
+  },
+  {
+   "i": 17,
+   "scene": "total",
+   "vi": "khoảng 18 tỷ tỷ hạt, nặng chừng 460 tỷ tấn.",
+   "spoken": "khoảng mười tám tỷ tỷ hạt, nặng chừng bốn trăm sáu mươi tỷ tấn.",
+   "f0": 2044,
+   "f1": 2144,
+   "start": 68.133,
+   "end": 71.467
+  },
+  {
+   "i": 18,
+   "scene": "earth",
+   "vi": "Cả thế giới mỗi năm làm ra khoảng 546 triệu tấn gạo.",
+   "spoken": "Cả thế giới mỗi năm làm ra khoảng năm trăm bốn mươi sáu triệu tấn gạo.",
+   "f0": 2224,
+   "f1": 2323,
+   "start": 74.133,
+   "end": 77.433
+  },
+  {
+   "i": 19,
+   "scene": "earth",
+   "vi": "Phải gom hơn 800 năm mùa vụ của cả hành tinh.",
+   "spoken": "Phải gom hơn tám trăm năm mùa vụ của cả hành tinh.",
+   "f0": 2359,
+   "f1": 2435,
+   "start": 78.633,
+   "end": 81.167
+  },
+  {
+   "i": 20,
+   "scene": "earth",
+   "vi": "Riêng Việt Nam thì mất khoảng 17.000 năm.",
+   "spoken": "Riêng Việt Nam thì mất khoảng mười bảy nghìn năm.",
+   "f0": 2477,
+   "f1": 2541,
+   "start": 82.567,
+   "end": 84.7
+  },
+  {
+   "i": 21,
+   "scene": "end",
+   "vi": "Đó là sức mạnh của hàm mũ: lúc đầu vô hại, rồi bất ngờ vượt khỏi mọi tưởng tượng.",
+   "spoken": "Đó là sức mạnh của hàm mũ: lúc đầu vô hại, rồi bất ngờ vượt khỏi mọi tưởng tượng.",
+   "f0": 2612,
+   "f1": 2748,
+   "start": 87.067,
+   "end": 91.6
+  },
+  {
+   "i": 22,
+   "scene": "end",
+   "vi": "Lãi kép, dịch bệnh lây lan,  sức mạnh máy tính đều chạy theo đường cong ấy.",
+   "spoken": "Lãi kép, dịch bệnh lây lan, sức mạnh máy tính đều chạy theo đường cong ấy.",
+   "f0": 2784,
+   "f1": 2902,
+   "start": 92.8,
+   "end": 96.733
+  },
+  {
+   "i": 23,
+   "scene": "end",
+   "vi": "Nếu là nhà vua, bạn sẽ trả thế nào?",
+   "spoken": "Nếu là nhà vua, bạn sẽ trả thế nào?",
+   "f0": 2944,
+   "f1": 3007,
+   "start": 98.133,
+   "end": 100.233
+  }
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "fps": 30,
+ "bar": 1.8461538461538463,
+ "total": 147.033,
+ "frames": 4411,
+ "scenes": {
+  "hook": 0,
+  "define": 498,
+  "arch": 997,
+  "irr": 2049,
+  "life": 2714,
+  "end": 3268,
+  "climax": 3822
+ },
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "vi": "Lấy một bánh xe, cho nó lăn đúng một vòng.",
+   "spoken": "Lấy một bánh xe, cho nó lăn đúng một vòng.",
+   "f0": 15,
+   "f1": 86,
+   "start": 0.5,
+   "end": 2.867
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "vi": "Quãng đường nó vừa đi dài gấp mấy lần đường kính?",
+   "spoken": "Quãng đường nó vừa đi dài gấp mấy lần đường kính?",
+   "f0": 102,
+   "f1": 169,
+   "start": 3.4,
+   "end": 5.633
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "vi": "Một… hai… ba… và còn dư ra một chút.",
+   "spoken": "Một… hai… ba… và còn dư ra một chút.",
+   "f0": 228,
+   "f1": 288,
+   "start": 7.6,
+   "end": 9.6
+  },
+  {
+   "i": 3,
+   "scene": "hook",
+   "vi": "Khoảng 3,14 lần. Bánh xe nào cũng vậy.",
+   "spoken": "Khoảng ba phẩy mười bốn lần. Bánh xe nào cũng vậy.",
+   "f0": 310,
+   "f1": 414,
+   "start": 10.333,
+   "end": 13.8
+  },
+  {
+   "i": 4,
+   "scene": "define",
+   "vi": "Con số ấy có một cái tên riêng: số π.",
+   "spoken": "Con số ấy có một cái tên riêng: số Pi.",
+   "f0": 510,
+   "f1": 579,
+   "start": 17.0,
+   "end": 19.3
+  },
+  {
+   "i": 5,
+   "scene": "define",
+   "vi": "π = chu vi ÷ đường kính.",
+   "spoken": "Pi bằng chu vi chia cho đường kính.",
+   "f0": 586,
+   "f1": 638,
+   "start": 19.533,
+   "end": 21.267
+  },
+  {
+   "i": 6,
+   "scene": "define",
+   "vi": "Cái nắp nồi trong bếp, bánh xe đạp, hay cả Trái Đất…",
+   "spoken": "Cái nắp nồi trong bếp, bánh xe đạp, hay cả Trái Đất…",
+   "f0": 664,
+   "f1": 755,
+   "start": 22.133,
+   "end": 25.167
+  },
+  {
+   "i": 7,
+   "scene": "define",
+   "vi": "hình tròn to hay nhỏ, tỉ số ấy vẫn không hề thay đổi.",
+   "spoken": "hình tròn to hay nhỏ, tỉ số ấy vẫn không hề thay đổi.",
+   "f0": 772,
+   "f1": 862,
+   "start": 25.733,
+   "end": 28.733
+  },
+  {
+   "i": 8,
+   "scene": "define",
+   "vi": "Nhưng chính xác thì nó bằng bao nhiêu?",
+   "spoken": "Nhưng chính xác thì nó bằng bao nhiêu?",
+   "f0": 878,
+   "f1": 933,
+   "start": 29.267,
+   "end": 31.1
+  },
+  {
+   "i": 9,
+   "scene": "arch",
+   "vi": "Hơn 2.200 năm trước, Archimedes đã nghĩ ra một cách rất khéo.",
+   "spoken": "Hơn hai nghìn hai trăm năm trước, Ác-si-mét đã nghĩ ra một cách rất khéo.",
+   "f0": 1009,
+   "f1": 1117,
+   "start": 33.633,
+   "end": 37.233
+  },
+  {
+   "i": 10,
+   "scene": "arch",
+   "vi": "Vẽ một đa giác nằm bên trong đường tròn, và một đa giác bao bên ngoài.",
+   "spoken": "Vẽ một đa giác nằm bên trong đường tròn, và một đa giác bao bên ngoài.",
+   "f0": 1124,
+   "f1": 1233,
+   "start": 37.467,
+   "end": 41.1
+  },
+  {
+   "i": 11,
+   "scene": "arch",
+   "vi": "Chu vi đường tròn bị kẹp chặt ở giữa hai đa giác ấy.",
+   "spoken": "Chu vi đường tròn bị kẹp chặt ở giữa hai đa giác ấy.",
+   "f0": 1250,
+   "f1": 1333,
+   "start": 41.667,
+   "end": 44.433
+  },
+  {
+   "i": 12,
+   "scene": "arch",
+   "vi": "6 cạnh. 12. 24. 48.",
+   "spoken": "Sáu cạnh. Mười hai. Hai mươi bốn. Bốn mươi tám.",
+   "f0": 1352,
+   "f1": 1513,
+   "start": 45.067,
+   "end": 50.433
+  },
+  {
+   "i": 13,
+   "scene": "arch",
+   "vi": "Càng nhiều cạnh, hai đa giác càng ôm sát lấy đường tròn.",
+   "spoken": "Càng nhiều cạnh, hai đa giác càng ôm sát lấy đường tròn.",
+   "f0": 1547,
+   "f1": 1633,
+   "start": 51.567,
+   "end": 54.433
+  },
+  {
+   "i": 14,
+   "scene": "arch",
+   "vi": "Đến 96 cạnh, ông chứng minh được rằng:",
+   "spoken": "Đến chín mươi sáu cạnh, ông chứng minh được rằng:",
+   "f0": 1649,
+   "f1": 1721,
+   "start": 54.967,
+   "end": 57.367
+  },
+  {
+   "i": 15,
+   "scene": "arch",
+   "vi": "π lớn hơn 223/71 và nhỏ hơn 22/7.",
+   "spoken": "Pi lớn hơn hai trăm hai mươi ba phần bảy mươi mốt, và nhỏ hơn hai mươi hai phần bảy.",
+   "f0": 1734,
+   "f1": 1861,
+   "start": 57.8,
+   "end": 62.033
+  },
+  {
+   "i": 16,
+   "scene": "arch",
+   "vi": "Tức là nằm giữa 3,1408 và 3,1429.",
+   "spoken": "Tức là nằm giữa ba phẩy một bốn không tám và ba phẩy một bốn hai chín.",
+   "f0": 1896,
+   "f1": 2002,
+   "start": 63.2,
+   "end": 66.733
+  },
+  {
+   "i": 17,
+   "scene": "irr",
+   "vi": "Nhưng tính mãi, tính mãi, π vẫn không chịu dừng lại.",
+   "spoken": "Nhưng tính mãi, tính mãi, Pi vẫn không chịu dừng lại.",
+   "f0": 2061,
+   "f1": 2162,
+   "start": 68.7,
+   "end": 72.067
+  },
+  {
+   "i": 18,
+   "scene": "irr",
+   "vi": "3,1415926535…",
+   "spoken": "Ba phẩy một bốn một năm chín hai sáu năm ba năm…",
+   "f0": 2176,
+   "f1": 2254,
+   "start": 72.533,
+   "end": 75.133
+  },
+  {
+   "i": 19,
+   "scene": "irr",
+   "vi": "Các chữ số cứ thế chạy mãi, không bao giờ hết, và không lặp lại theo một chu kỳ nào.",
+   "spoken": "Các chữ số cứ thế chạy mãi, không bao giờ hết, và không lặp lại theo một chu kỳ nào.",
+   "f0": 2289,
+   "f1": 2421,
+   "start": 76.3,
+   "end": 80.7
+  },
+  {
+   "i": 20,
+   "scene": "irr",
+   "vi": "22/7 thì lặp lại. π thì không.",
+   "spoken": "Hai mươi hai phần bảy thì lặp lại. Pi thì không.",
+   "f0": 2444,
+   "f1": 2545,
+   "start": 81.467,
+   "end": 84.833
+  },
+  {
+   "i": 21,
+   "scene": "irr",
+   "vi": "Toán học gọi đó là một số vô tỉ: không phân số nào viết đúng được nó.",
+   "spoken": "Toán học gọi đó là một số vô tỉ: không phân số nào viết đúng được nó.",
+   "f0": 2570,
+   "f1": 2684,
+   "start": 85.667,
+   "end": 89.467
+  },
+  {
+   "i": 22,
+   "scene": "life",
+   "vi": "Vậy π có liên quan gì đến cuộc sống?",
+   "spoken": "Vậy Pi có liên quan gì đến cuộc sống?",
+   "f0": 2726,
+   "f1": 2785,
+   "start": 90.867,
+   "end": 92.833
+  },
+  {
+   "i": 23,
+   "scene": "life",
+   "vi": "Mỗi vòng quay, bánh xe đi được đúng π × đường kính.",
+   "spoken": "Mỗi vòng quay, bánh xe đi được đúng Pi nhân đường kính.",
+   "f0": 2792,
+   "f1": 2877,
+   "start": 93.067,
+   "end": 95.9
+  },
+  {
+   "i": 24,
+   "scene": "life",
+   "vi": "Âm thanh lan đi thành sóng hình sin, mỗi chu kỳ ứng với 2π.",
+   "spoken": "Âm thanh lan đi thành sóng hình sin, mỗi chu kỳ ứng với hai Pi.",
+   "f0": 2906,
+   "f1": 3004,
+   "start": 96.867,
+   "end": 100.133
+  },
+  {
+   "i": 25,
+   "scene": "life",
+   "vi": "Còn vệ tinh GPS thì bay vòng quanh Trái Đất. Tính quỹ đạo của nó, lại cần đến π.",
+   "spoken": "Còn vệ tinh định vị thì bay vòng quanh Trái Đất. Tính quỹ đạo của nó, lại cần đến Pi.",
+   "f0": 3036,
+   "f1": 3195,
+   "start": 101.2,
+   "end": 106.5
+  },
+  {
+   "i": 26,
+   "scene": "end",
+   "vi": "Vậy phải cần bao nhiêu chữ số π mới đủ dùng?",
+   "spoken": "Vậy phải cần bao nhiêu chữ số Pi mới đủ dùng?",
+   "f0": 3280,
+   "f1": 3353,
+   "start": 109.333,
+   "end": 111.767
+  },
+  {
+   "i": 27,
+   "scene": "end",
+   "vi": "Khi dẫn đường cho tàu vũ trụ bay giữa các hành tinh, NASA chỉ dùng 15 chữ số sau dấu phẩy.",
+   "spoken": "Khi dẫn đường cho tàu vũ trụ bay giữa các hành tinh, Na-sa chỉ dùng mười lăm chữ số sau dấu phẩy.",
+   "f0": 3366,
+   "f1": 3518,
+   "start": 112.2,
+   "end": 117.267
+  },
+  {
+   "i": 28,
+   "scene": "end",
+   "vi": "Với chừng ấy, tính một vòng tròn to bằng quãng đường của tàu Voyager 1, sai số chỉ khoảng 1,5 cm.",
+   "spoken": "Với chừng ấy, tính một vòng tròn to bằng quãng đường của tàu Voi-ơ-giơ Một, sai số chỉ khoảng một phẩy năm xen-ti-mét.",
+   "f0": 3544,
+   "f1": 3718,
+   "start": 118.133,
+   "end": 123.933
+  },
+  {
+   "i": 29,
+   "scene": "end",
+   "vi": "Vậy mà con người đã tính π tới 314 nghìn tỷ chữ số.",
+   "spoken": "Vậy mà con người đã tính Pi tới ba trăm mười bốn nghìn tỷ chữ số.",
+   "f0": 3773,
+   "f1": 3873,
+   "start": 125.767,
+   "end": 129.1
+  },
+  {
+   "i": 30,
+   "scene": "end",
+   "vi": "Để làm gì?",
+   "spoken": "Để làm gì?",
+   "f0": 3922,
+   "f1": 3944,
+   "start": 130.733,
+   "end": 131.467
+  },
+  {
+   "i": 31,
+   "scene": "end",
+   "vi": "Để thử sức siêu máy tính, kiểm tra thuật toán và phần cứng mới.",
+   "spoken": "Để thử sức siêu máy tính, kiểm tra thuật toán và phần cứng mới.",
+   "f0": 3961,
+   "f1": 4059,
+   "start": 132.033,
+   "end": 135.3
+  },
+  {
+   "i": 32,
+   "scene": "end",
+   "vi": "Và vì tò mò: con người luôn muốn biết chữ số tiếp theo là gì.",
+   "spoken": "Và vì tò mò: con người luôn muốn biết chữ số tiếp theo là gì.",
+   "f0": 4076,
+   "f1": 4173,
+   "start": 135.867,
+   "end": 139.1
+  },
+  {
+   "i": 33,
+   "scene": "end",
+   "vi": "Một tỉ số đơn giản, từ chiếc bánh xe… đến tận những vì sao.",
+   "spoken": "Một tỉ số đơn giản, từ chiếc bánh xe… đến tận những vì sao.",
+   "f0": 4198,
+   "f1": 4306,
+   "start": 139.933,
+   "end": 143.533
+  }
+ ]
+}

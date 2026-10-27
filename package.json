@@ -13,9 +13,11 @@
   "dependencies": {
     "@remotion/cli": "^4.0.529",
     "@remotion/google-fonts": "^4.0.529",
+    "@types/three": "^0.180.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
-    "remotion": "^4.0.529"
+    "remotion": "^4.0.529",
+    "three": "^0.180.0"
   },
   "devDependencies": {
     "@types/node": "^26.6.3",

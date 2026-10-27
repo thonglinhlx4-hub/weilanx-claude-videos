@@ -1,0 +1,215 @@
+[
+[
+"hook",
+"Hàm số ấy mà…"
+],
+[
+"hook",
+"học xong rốt cuộc để làm gì?"
+],
+[
+"hook",
+"Đi chợ mua bó rau, có ai lập phương trình đâu?"
+],
+[
+"linear",
+"Thật ra, bạn dùng nó mỗi ngày mà không để ý."
+],
+[
+"linear",
+"Bắp cải mười lăm nghìn một ký.",
+"Bắp cải 15 nghìn một ký."
+],
+[
+"linear",
+"Mua hai ký, ba mươi nghìn. Ba ký, bốn mươi lăm nghìn.",
+"Mua 2 ký: 30 nghìn. Mua 3 ký: 45 nghìn."
+],
+[
+"linear",
+"Tiền phải trả bằng giá nhân cân nặng: y bằng mười lăm x.",
+"Tiền trả = giá × cân nặng: y = 15x."
+],
+[
+"linear",
+"Đó chính là một hàm số bậc nhất."
+],
+[
+"piece",
+"Siêu thị treo biển: mua từ hai trăm nghìn, giảm ba mươi nghìn.",
+"Siêu thị treo biển: mua từ 200 nghìn, giảm 30 nghìn."
+],
+[
+"piece",
+"Mua một trăm chín mươi nghìn, trả đủ một trăm chín mươi.",
+"Mua 190 nghìn: trả đủ 190."
+],
+[
+"piece",
+"Mua hai trăm nghìn, chỉ phải trả một trăm bảy mươi.",
+"Mua 200 nghìn: chỉ phải trả 170."
+],
+[
+"piece",
+"Đồ thị gãy một nhát. Đó là hàm số từng khúc."
+],
+[
+"piece",
+"Có lúc mua thêm đồ, lại trả ít tiền hơn."
+],
+[
+"wave",
+"Rồi giá rau còn lên xuống theo mùa."
+],
+[
+"wave",
+"Mùa mưa bão, rau khan hiếm, giá vọt lên."
+],
+[
+"wave",
+"Vào vụ, rau về nhiều, giá lại rớt xuống."
+],
+[
+"wave",
+"Giá phụ thuộc cùng lúc vào mùa và thời tiết."
+],
+[
+"vendor",
+"Chú bán rau ngoài chợ chẳng cần viết công thức."
+],
+[
+"vendor",
+"Nhưng sáng nào chú cũng nhẩm: mưa, hàng về ít, bán giá nào?"
+],
+[
+"vendor",
+"Trong đầu chú đã có sẵn một hàm số."
+],
+[
+"history",
+"Vậy hàm số từ đâu mà ra?"
+],
+[
+"history",
+"Khoảng năm 1800 trước Công nguyên, người Babylon khắc bảng số lên đất sét.",
+"Khoảng 1800 TCN, người Babylon khắc bảng số lên đất sét."
+],
+[
+"history",
+"Một cột là số, cột kia là bình phương của nó."
+],
+[
+"history",
+"Tra bảng là ra kết quả. Ý tưởng đầu vào, đầu ra có từ đó.",
+"Tra bảng là ra kết quả: đầu vào → đầu ra."
+],
+[
+"history",
+"Năm 1637, Đề các đặt các con số lên hệ trục tọa độ.",
+"Năm 1637, Descartes đặt các con số lên hệ trục tọa độ."
+],
+[
+"history",
+"Mỗi cặp số thành một điểm, nhiều điểm nối thành đường."
+],
+[
+"history",
+"Năm 1673, Lai bơ nít bắt đầu dùng chữ function.",
+"Năm 1673, Leibniz bắt đầu dùng chữ “function”."
+],
+[
+"history",
+"Năm 1734, nhà toán học Ơ-le viết gọn nó thành, ép của ích.",
+"Năm 1734, Euler viết gọn lại thành f(x)."
+],
+[
+"history",
+"Đến năm 1837, Đi rích lê chốt lại một quy tắc.",
+"Năm 1837, Dirichlet chốt lại một quy tắc."
+],
+[
+"rule",
+"Mỗi đầu vào chỉ được cho đúng một đầu ra."
+],
+[
+"rule",
+"Đường lượn sóng này là hàm số."
+],
+[
+"rule",
+"Còn đường tròn thì không: một x cho tới hai y."
+],
+[
+"multi",
+"Hiểu vậy rồi, bạn sẽ thấy hàm số ở khắp nơi."
+],
+[
+"multi",
+"Thời gian đi học, tưởng là một con số cố định."
+],
+[
+"multi",
+"Nhưng trời mưa thì chậm, kẹt xe thì chậm hơn."
+],
+[
+"multi",
+"Đi sớm mười phút, có khi tới sớm hai mươi phút.",
+"Đi sớm 10 phút, có khi tới sớm 20 phút."
+],
+[
+"multi",
+"Một kết quả, phụ thuộc nhiều biến: đó là hàm nhiều biến."
+],
+[
+"back",
+"Vậy học hàm số có dùng được không?"
+],
+[
+"back",
+"Có. Nhưng không phải để tính tiền rau."
+],
+[
+"back",
+"Nó dạy bạn hỏi: cái gì đang thay đổi, và nó kéo theo cái gì?"
+],
+[
+"curve",
+"Một bài kiểm tra điểm thấp chỉ là một điểm."
+],
+[
+"curve",
+"Điều đáng nhìn là cả đường cong: đang đi lên hay đi xuống."
+],
+[
+"curve",
+"Và đầu vào của đường cong ấy là những gì bạn làm mỗi ngày."
+],
+[
+"end",
+"Bạn không cần biết công thức của cuộc đời."
+],
+[
+"end",
+"Chỉ cần nhớ: đổi đầu vào, đầu ra sẽ đổi theo."
+],
+[
+"climax",
+"Và bạn có vô số đầu vào để chọn."
+],
+[
+"history",
+"Khoảng năm 1636, Phéc-ma đã dùng phương trình để mô tả đường cong, gần như cùng lúc với Đề các.",
+"Khoảng năm 1636, Fermat đã dùng phương trình để mô tả đường cong — gần như cùng lúc với Descartes.",
+{
+"before": 24
+}
+],
+[
+"history",
+"Năm 1718, Giô-han Béc-nu-li lần đầu viết ra định nghĩa: hàm số là một đại lượng tạo nên từ biến số.",
+"Năm 1718, Johann Bernoulli lần đầu viết ra định nghĩa: hàm số là một đại lượng tạo nên từ biến số.",
+{
+"before": 27
+}
+]
+]

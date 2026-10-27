@@ -1,0 +1,5 @@
+{
+  "hilbert.jpg": {"subject": "David Hilbert", "commons": "https://commons.wikimedia.org/wiki/File:Hilbert.jpg", "license": "Public domain ({{PD-US-expired}}, {{PD-EU-no author disclosure}})", "author": "unknown (Göttingen faculty postcard photo, before 1912)", "use": "gold-framed card, lines 4 and 29-30; converted to RGB, colour-graded in shader"},
+  "cantor.jpg": {"subject": "Georg Cantor", "commons": "https://commons.wikimedia.org/wiki/File:Georg_Cantor2.jpg", "license": "Public domain ({{PD-old}})", "author": "unknown, early 1900s", "use": "gold-framed card, lines 18-24"},
+  "gamow.jpg": {"subject": "George Gamow", "commons": "https://commons.wikimedia.org/wiki/File:Bragg_lab1_1930_(cropped).jpg", "license": "Commons tag {{PD-Art}} (crop of File:Bragg_lab1_1930.jpg, 1931, archive of A. A. Lebedev, photographer unknown)", "author": "photographer unknown; crop/processing Serge Lachinov", "use": "small gold-framed card, line 5 (195x284 source, kept small and soft)"}
+}

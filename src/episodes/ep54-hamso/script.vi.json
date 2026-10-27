@@ -1,0 +1,505 @@
+{
+ "fps": 30,
+ "bar": 1.8461538461538463,
+ "total": 163.867,
+ "frames": 4916,
+ "scenes": {
+  "hook": 0,
+  "linear": 222,
+  "piece": 665,
+  "wave": 1163,
+  "vendor": 1495,
+  "history": 1772,
+  "rule": 3212,
+  "multi": 3434,
+  "back": 3877,
+  "curve": 4154,
+  "end": 4431,
+  "climax": 4652
+ },
+ "barsAdded": 7,
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "vi": "Hàm số ấy mà…",
+   "spoken": "Hàm số ấy mà…",
+   "start": 0.5,
+   "end": 1.5,
+   "f0": 15,
+   "f1": 45
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "vi": "học xong rốt cuộc để làm gì?",
+   "spoken": "học xong rốt cuộc để làm gì?",
+   "start": 1.7,
+   "end": 3.167,
+   "f0": 51,
+   "f1": 95
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "vi": "Đi chợ mua bó rau, có ai lập phương trình đâu?",
+   "spoken": "Đi chợ mua bó rau, có ai lập phương trình đâu?",
+   "start": 3.333,
+   "end": 5.833,
+   "f0": 100,
+   "f1": 175
+  },
+  {
+   "i": 3,
+   "scene": "linear",
+   "vi": "Thật ra, bạn dùng nó mỗi ngày mà không để ý.",
+   "spoken": "Thật ra, bạn dùng nó mỗi ngày mà không để ý.",
+   "start": 7.4,
+   "end": 9.967,
+   "f0": 222,
+   "f1": 299
+  },
+  {
+   "i": 4,
+   "scene": "linear",
+   "vi": "Bắp cải 15 nghìn một ký.",
+   "spoken": "Bắp cải mười lăm nghìn một ký.",
+   "start": 10.133,
+   "end": 11.8,
+   "f0": 304,
+   "f1": 354
+  },
+  {
+   "i": 5,
+   "scene": "linear",
+   "vi": "Mua 2 ký: 30 nghìn. Mua 3 ký: 45 nghìn.",
+   "spoken": "Mua hai ký, ba mươi nghìn. Ba ký, bốn mươi lăm nghìn.",
+   "start": 12.0,
+   "end": 16.167,
+   "f0": 360,
+   "f1": 485
+  },
+  {
+   "i": 6,
+   "scene": "linear",
+   "vi": "Tiền trả = giá × cân nặng: y = 15x.",
+   "spoken": "Tiền phải trả bằng giá nhân cân nặng: y bằng mười lăm x.",
+   "start": 16.4,
+   "end": 19.367,
+   "f0": 492,
+   "f1": 581
+  },
+  {
+   "i": 7,
+   "scene": "linear",
+   "vi": "Đó chính là một hàm số bậc nhất.",
+   "spoken": "Đó chính là một hàm số bậc nhất.",
+   "start": 19.567,
+   "end": 21.167,
+   "f0": 587,
+   "f1": 635
+  },
+  {
+   "i": 8,
+   "scene": "piece",
+   "vi": "Siêu thị treo biển: mua từ 200 nghìn, giảm 30 nghìn.",
+   "spoken": "Siêu thị treo biển: mua từ hai trăm nghìn, giảm ba mươi nghìn.",
+   "start": 22.167,
+   "end": 25.567,
+   "f0": 665,
+   "f1": 767
+  },
+  {
+   "i": 9,
+   "scene": "piece",
+   "vi": "Mua 190 nghìn: trả đủ 190.",
+   "spoken": "Mua một trăm chín mươi nghìn, trả đủ một trăm chín mươi.",
+   "start": 25.767,
+   "end": 28.6,
+   "f0": 773,
+   "f1": 858
+  },
+  {
+   "i": 10,
+   "scene": "piece",
+   "vi": "Mua 200 nghìn: chỉ phải trả 170.",
+   "spoken": "Mua hai trăm nghìn, chỉ phải trả một trăm bảy mươi.",
+   "start": 28.8,
+   "end": 31.467,
+   "f0": 864,
+   "f1": 944
+  },
+  {
+   "i": 11,
+   "scene": "piece",
+   "vi": "Đồ thị gãy một nhát. Đó là hàm số từng khúc.",
+   "spoken": "Đồ thị gãy một nhát. Đó là hàm số từng khúc.",
+   "start": 31.667,
+   "end": 35.0,
+   "f0": 950,
+   "f1": 1050
+  },
+  {
+   "i": 12,
+   "scene": "piece",
+   "vi": "Có lúc mua thêm đồ, lại trả ít tiền hơn.",
+   "spoken": "Có lúc mua thêm đồ, lại trả ít tiền hơn.",
+   "start": 35.2,
+   "end": 37.533,
+   "f0": 1056,
+   "f1": 1126
+  },
+  {
+   "i": 13,
+   "scene": "wave",
+   "vi": "Rồi giá rau còn lên xuống theo mùa.",
+   "spoken": "Rồi giá rau còn lên xuống theo mùa.",
+   "start": 38.767,
+   "end": 40.667,
+   "f0": 1163,
+   "f1": 1220
+  },
+  {
+   "i": 14,
+   "scene": "wave",
+   "vi": "Mùa mưa bão, rau khan hiếm, giá vọt lên.",
+   "spoken": "Mùa mưa bão, rau khan hiếm, giá vọt lên.",
+   "start": 40.867,
+   "end": 43.733,
+   "f0": 1226,
+   "f1": 1312
+  },
+  {
+   "i": 15,
+   "scene": "wave",
+   "vi": "Vào vụ, rau về nhiều, giá lại rớt xuống.",
+   "spoken": "Vào vụ, rau về nhiều, giá lại rớt xuống.",
+   "start": 43.933,
+   "end": 46.633,
+   "f0": 1318,
+   "f1": 1399
+  },
+  {
+   "i": 16,
+   "scene": "wave",
+   "vi": "Giá phụ thuộc cùng lúc vào mùa và thời tiết.",
+   "spoken": "Giá phụ thuộc cùng lúc vào mùa và thời tiết.",
+   "start": 46.833,
+   "end": 48.9,
+   "f0": 1405,
+   "f1": 1467
+  },
+  {
+   "i": 17,
+   "scene": "vendor",
+   "vi": "Chú bán rau ngoài chợ chẳng cần viết công thức.",
+   "spoken": "Chú bán rau ngoài chợ chẳng cần viết công thức.",
+   "start": 49.833,
+   "end": 52.033,
+   "f0": 1495,
+   "f1": 1561
+  },
+  {
+   "i": 18,
+   "scene": "vendor",
+   "vi": "Nhưng sáng nào chú cũng nhẩm: mưa, hàng về ít, bán giá nào?",
+   "spoken": "Nhưng sáng nào chú cũng nhẩm: mưa, hàng về ít, bán giá nào?",
+   "start": 52.233,
+   "end": 56.033,
+   "f0": 1567,
+   "f1": 1681
+  },
+  {
+   "i": 19,
+   "scene": "vendor",
+   "vi": "Trong đầu chú đã có sẵn một hàm số.",
+   "spoken": "Trong đầu chú đã có sẵn một hàm số.",
+   "start": 56.233,
+   "end": 58.133,
+   "f0": 1687,
+   "f1": 1744
+  },
+  {
+   "i": 20,
+   "scene": "history",
+   "vi": "Vậy hàm số từ đâu mà ra?",
+   "spoken": "Vậy hàm số từ đâu mà ra?",
+   "start": 59.067,
+   "end": 60.633,
+   "f0": 1772,
+   "f1": 1819
+  },
+  {
+   "i": 21,
+   "scene": "history",
+   "vi": "Khoảng 1800 TCN, người Babylon khắc bảng số lên đất sét.",
+   "spoken": "Khoảng năm 1800 trước Công nguyên, người Babylon khắc bảng số lên đất sét.",
+   "start": 60.833,
+   "end": 64.933,
+   "f0": 1825,
+   "f1": 1948
+  },
+  {
+   "i": 22,
+   "scene": "history",
+   "vi": "Một cột là số, cột kia là bình phương của nó.",
+   "spoken": "Một cột là số, cột kia là bình phương của nó.",
+   "start": 65.133,
+   "end": 67.733,
+   "f0": 1954,
+   "f1": 2032
+  },
+  {
+   "i": 23,
+   "scene": "history",
+   "vi": "Tra bảng là ra kết quả: đầu vào → đầu ra.",
+   "spoken": "Tra bảng là ra kết quả. Ý tưởng đầu vào, đầu ra có từ đó.",
+   "start": 67.933,
+   "end": 72.4,
+   "f0": 2038,
+   "f1": 2172
+  },
+  {
+   "i": 24,
+   "scene": "history",
+   "vi": "Năm 1637, Descartes đặt các con số lên hệ trục tọa độ.",
+   "spoken": "Năm 1637, Đề các đặt các con số lên hệ trục tọa độ.",
+   "start": 78.8,
+   "end": 82.767,
+   "f0": 2364,
+   "f1": 2483
+  },
+  {
+   "i": 25,
+   "scene": "history",
+   "vi": "Mỗi cặp số thành một điểm, nhiều điểm nối thành đường.",
+   "spoken": "Mỗi cặp số thành một điểm, nhiều điểm nối thành đường.",
+   "start": 83.0,
+   "end": 85.7,
+   "f0": 2490,
+   "f1": 2571
+  },
+  {
+   "i": 26,
+   "scene": "history",
+   "vi": "Năm 1673, Leibniz bắt đầu dùng chữ “function”.",
+   "spoken": "Năm 1673, Lai bơ nít bắt đầu dùng chữ function.",
+   "start": 85.867,
+   "end": 89.633,
+   "f0": 2576,
+   "f1": 2689
+  },
+  {
+   "i": 27,
+   "scene": "history",
+   "vi": "Năm 1734, Euler viết gọn lại thành f(x).",
+   "spoken": "Năm 1734, nhà toán học Ơ-le viết gọn nó thành, ép của ích.",
+   "start": 96.467,
+   "end": 100.767,
+   "f0": 2894,
+   "f1": 3023
+  },
+  {
+   "i": 28,
+   "scene": "history",
+   "vi": "Năm 1837, Dirichlet chốt lại một quy tắc.",
+   "spoken": "Đến năm 1837, Đi rích lê chốt lại một quy tắc.",
+   "start": 100.967,
+   "end": 104.633,
+   "f0": 3029,
+   "f1": 3139
+  },
+  {
+   "i": 29,
+   "scene": "rule",
+   "vi": "Mỗi đầu vào chỉ được cho đúng một đầu ra.",
+   "spoken": "Mỗi đầu vào chỉ được cho đúng một đầu ra.",
+   "start": 107.067,
+   "end": 109.033,
+   "f0": 3212,
+   "f1": 3271
+  },
+  {
+   "i": 30,
+   "scene": "rule",
+   "vi": "Đường lượn sóng này là hàm số.",
+   "spoken": "Đường lượn sóng này là hàm số.",
+   "start": 109.2,
+   "end": 110.933,
+   "f0": 3276,
+   "f1": 3328
+  },
+  {
+   "i": 31,
+   "scene": "rule",
+   "vi": "Còn đường tròn thì không: một x cho tới hai y.",
+   "spoken": "Còn đường tròn thì không: một x cho tới hai y.",
+   "start": 111.133,
+   "end": 113.7,
+   "f0": 3334,
+   "f1": 3411
+  },
+  {
+   "i": 32,
+   "scene": "multi",
+   "vi": "Hiểu vậy rồi, bạn sẽ thấy hàm số ở khắp nơi.",
+   "spoken": "Hiểu vậy rồi, bạn sẽ thấy hàm số ở khắp nơi.",
+   "start": 114.467,
+   "end": 116.967,
+   "f0": 3434,
+   "f1": 3509
+  },
+  {
+   "i": 33,
+   "scene": "multi",
+   "vi": "Thời gian đi học, tưởng là một con số cố định.",
+   "spoken": "Thời gian đi học, tưởng là một con số cố định.",
+   "start": 117.167,
+   "end": 119.633,
+   "f0": 3515,
+   "f1": 3589
+  },
+  {
+   "i": 34,
+   "scene": "multi",
+   "vi": "Nhưng trời mưa thì chậm, kẹt xe thì chậm hơn.",
+   "spoken": "Nhưng trời mưa thì chậm, kẹt xe thì chậm hơn.",
+   "start": 119.833,
+   "end": 122.433,
+   "f0": 3595,
+   "f1": 3673
+  },
+  {
+   "i": 35,
+   "scene": "multi",
+   "vi": "Đi sớm 10 phút, có khi tới sớm 20 phút.",
+   "spoken": "Đi sớm mười phút, có khi tới sớm hai mươi phút.",
+   "start": 122.6,
+   "end": 125.0,
+   "f0": 3678,
+   "f1": 3750
+  },
+  {
+   "i": 36,
+   "scene": "multi",
+   "vi": "Một kết quả, phụ thuộc nhiều biến: đó là hàm nhiều biến.",
+   "spoken": "Một kết quả, phụ thuộc nhiều biến: đó là hàm nhiều biến.",
+   "start": 125.233,
+   "end": 128.5,
+   "f0": 3757,
+   "f1": 3855
+  },
+  {
+   "i": 37,
+   "scene": "back",
+   "vi": "Vậy học hàm số có dùng được không?",
+   "spoken": "Vậy học hàm số có dùng được không?",
+   "start": 129.233,
+   "end": 130.933,
+   "f0": 3877,
+   "f1": 3928
+  },
+  {
+   "i": 38,
+   "scene": "back",
+   "vi": "Có. Nhưng không phải để tính tiền rau.",
+   "spoken": "Có. Nhưng không phải để tính tiền rau.",
+   "start": 131.167,
+   "end": 134.0,
+   "f0": 3935,
+   "f1": 4020
+  },
+  {
+   "i": 39,
+   "scene": "back",
+   "vi": "Nó dạy bạn hỏi: cái gì đang thay đổi, và nó kéo theo cái gì?",
+   "spoken": "Nó dạy bạn hỏi: cái gì đang thay đổi, và nó kéo theo cái gì?",
+   "start": 134.2,
+   "end": 137.667,
+   "f0": 4026,
+   "f1": 4130
+  },
+  {
+   "i": 40,
+   "scene": "curve",
+   "vi": "Một bài kiểm tra điểm thấp chỉ là một điểm.",
+   "spoken": "Một bài kiểm tra điểm thấp chỉ là một điểm.",
+   "start": 138.467,
+   "end": 140.533,
+   "f0": 4154,
+   "f1": 4216
+  },
+  {
+   "i": 41,
+   "scene": "curve",
+   "vi": "Điều đáng nhìn là cả đường cong: đang đi lên hay đi xuống.",
+   "spoken": "Điều đáng nhìn là cả đường cong: đang đi lên hay đi xuống.",
+   "start": 140.733,
+   "end": 143.667,
+   "f0": 4222,
+   "f1": 4310
+  },
+  {
+   "i": 42,
+   "scene": "curve",
+   "vi": "Và đầu vào của đường cong ấy là những gì bạn làm mỗi ngày.",
+   "spoken": "Và đầu vào của đường cong ấy là những gì bạn làm mỗi ngày.",
+   "start": 143.9,
+   "end": 146.633,
+   "f0": 4317,
+   "f1": 4399
+  },
+  {
+   "i": 43,
+   "scene": "end",
+   "vi": "Bạn không cần biết công thức của cuộc đời.",
+   "spoken": "Bạn không cần biết công thức của cuộc đời.",
+   "start": 147.7,
+   "end": 149.6,
+   "f0": 4431,
+   "f1": 4488
+  },
+  {
+   "i": 44,
+   "scene": "end",
+   "vi": "Chỉ cần nhớ: đổi đầu vào, đầu ra sẽ đổi theo.",
+   "spoken": "Chỉ cần nhớ: đổi đầu vào, đầu ra sẽ đổi theo.",
+   "start": 149.8,
+   "end": 152.7,
+   "f0": 4494,
+   "f1": 4581
+  },
+  {
+   "i": 45,
+   "scene": "climax",
+   "vi": "Và bạn có vô số đầu vào để chọn.",
+   "spoken": "Và bạn có vô số đầu vào để chọn.",
+   "start": 155.067,
+   "end": 157.0,
+   "f0": 4652,
+   "f1": 4710
+  },
+  {
+   "i": 46,
+   "scene": "history",
+   "vi": "Khoảng năm 1636, Fermat đã dùng phương trình để mô tả đường cong — gần như cùng lúc với Descartes.",
+   "spoken": "Khoảng năm 1636, Phéc-ma đã dùng phương trình để mô tả đường cong, gần như cùng lúc với Đề các.",
+   "f0": 2178,
+   "f1": 2352,
+   "inserted": true,
+   "start": 72.6,
+   "end": 78.4
+  },
+  {
+   "i": 47,
+   "scene": "history",
+   "vi": "Năm 1718, Johann Bernoulli lần đầu viết ra định nghĩa: hàm số là một đại lượng tạo nên từ biến số.",
+   "spoken": "Năm 1718, Giô-han Béc-nu-li lần đầu viết ra định nghĩa: hàm số là một đại lượng tạo nên từ biến số.",
+   "f0": 2695,
+   "f1": 2882,
+   "inserted": true,
+   "start": 89.833,
+   "end": 96.067
+  }
+ ]
+}

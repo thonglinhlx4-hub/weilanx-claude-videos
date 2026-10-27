@@ -1,0 +1,337 @@
+{
+ "fps": 30,
+ "bar": 1.8461538461538463,
+ "total": 151.133,
+ "frames": 4534,
+ "scenes": {
+  "hook": 0,
+  "one": 831,
+  "bus": 1329,
+  "cantor": 2437,
+  "twist": 3102,
+  "climax": 3932,
+  "end": 4043
+ },
+ "lines": [
+  {
+   "i": 0,
+   "scene": "hook",
+   "vi": "Một khách sạn có vô số phòng: 1, 2, 3, … mãi không hết.",
+   "spoken": "Một khách sạn có vô số phòng, đánh số một, hai, ba… mãi không hết.",
+   "f0": 15,
+   "f1": 139,
+   "start": 0.5,
+   "end": 4.633
+  },
+  {
+   "i": 1,
+   "scene": "hook",
+   "vi": "Đêm nay: KÍN PHÒNG.",
+   "spoken": "Đêm nay, phòng nào cũng đã kín khách.",
+   "f0": 164,
+   "f1": 222,
+   "start": 5.467,
+   "end": 7.4
+  },
+  {
+   "i": 2,
+   "scene": "hook",
+   "vi": "Bỗng có thêm một vị khách. Liệu còn chỗ không?",
+   "spoken": "Bỗng có thêm một vị khách. Liệu còn chỗ không?",
+   "f0": 254,
+   "f1": 346,
+   "start": 8.467,
+   "end": 11.533
+  },
+  {
+   "i": 3,
+   "scene": "hook",
+   "vi": "Câu trả lời lạ lùng là: vẫn còn.",
+   "spoken": "Câu trả lời lạ lùng là: vẫn còn.",
+   "f0": 366,
+   "f1": 429,
+   "start": 12.2,
+   "end": 14.3
+  },
+  {
+   "i": 4,
+   "scene": "hook",
+   "vi": "Câu chuyện này do nhà toán học Đức David Hilbert kể, hơn 100 năm trước.",
+   "spoken": "Câu chuyện này do nhà toán học Đức Đa-vít Hin-bớt kể, hơn một trăm năm trước.",
+   "f0": 464,
+   "f1": 581,
+   "start": 15.467,
+   "end": 19.367
+  },
+  {
+   "i": 5,
+   "scene": "hook",
+   "vi": "Năm 1947, nhà vật lý George Gamow đưa nó vào sách, và nó trở nên nổi tiếng.",
+   "spoken": "Năm một nghìn chín trăm bốn mươi bảy, nhà vật lý Ga-mốp đưa nó vào sách, và nó trở nên nổi tiếng.",
+   "f0": 600,
+   "f1": 751,
+   "start": 20.0,
+   "end": 25.033
+  },
+  {
+   "i": 6,
+   "scene": "one",
+   "vi": "Cách của Hilbert: phòng n → phòng n + 1",
+   "spoken": "Cách của Hin-bớt: khách ở phòng en, hãy sang phòng en cộng một.",
+   "f0": 843,
+   "f1": 944,
+   "start": 28.1,
+   "end": 31.467
+  },
+  {
+   "i": 7,
+   "scene": "one",
+   "vi": "Không có phòng cuối cùng, nên ai cũng có chỗ để chuyển đến.",
+   "spoken": "Không có phòng cuối cùng, nên ai cũng có chỗ để chuyển đến.",
+   "f0": 984,
+   "f1": 1069,
+   "start": 32.8,
+   "end": 35.633
+  },
+  {
+   "i": 8,
+   "scene": "one",
+   "vi": "Phòng 1 trống.",
+   "spoken": "Phòng một trống. Vị khách mới vào ở.",
+   "f0": 1088,
+   "f1": 1177,
+   "start": 36.267,
+   "end": 39.233
+  },
+  {
+   "i": 9,
+   "scene": "one",
+   "vi": "Với vô hạn, “kín phòng” không có nghĩa là “hết chỗ”.",
+   "spoken": "Với vô hạn, kín phòng không có nghĩa là hết chỗ.",
+   "f0": 1212,
+   "f1": 1290,
+   "start": 40.4,
+   "end": 43.0
+  },
+  {
+   "i": 10,
+   "scene": "bus",
+   "vi": "Xe buýt chở vô số khách: 1, 2, 3, …",
+   "spoken": "Rồi một chiếc xe buýt chở vô số khách mới đến.",
+   "f0": 1341,
+   "f1": 1411,
+   "start": 44.7,
+   "end": 47.033
+  },
+  {
+   "i": 11,
+   "scene": "bus",
+   "vi": "n → 2n:  1 → 2,  2 → 4,  3 → 6, …",
+   "spoken": "Lần này: phòng en sang phòng hai en. Một sang hai, hai sang bốn, ba sang sáu…",
+   "f0": 1434,
+   "f1": 1610,
+   "start": 47.8,
+   "end": 53.667
+  },
+  {
+   "i": 12,
+   "scene": "bus",
+   "vi": "Phòng lẻ trống: 1, 3, 5, 7, … đủ cho cả xe.",
+   "spoken": "Thế là mọi phòng số lẻ đều trống, đủ chỗ cho cả xe.",
+   "f0": 1641,
+   "f1": 1730,
+   "start": 54.7,
+   "end": 57.667
+  },
+  {
+   "i": 13,
+   "scene": "bus",
+   "vi": "∞ xe × ∞ khách?",
+   "spoken": "Còn nếu đến vô số xe buýt, mỗi xe chở vô số khách thì sao?",
+   "f0": 1758,
+   "f1": 1851,
+   "start": 58.6,
+   "end": 61.7
+  },
+  {
+   "i": 14,
+   "scene": "bus",
+   "vi": "Vẫn xếp được. Khách cũ: n → 2ⁿ (2, 4, 8, 16, …)",
+   "spoken": "Vẫn xếp được, nhờ số nguyên tố. Khách cũ sang phòng hai mũ en.",
+   "f0": 1880,
+   "f1": 2016,
+   "start": 62.667,
+   "end": 67.2
+  },
+  {
+   "i": 15,
+   "scene": "bus",
+   "vi": "Xe 1 → 3ⁿ · Xe 2 → 5ⁿ · Xe 3 → 7ⁿ · …",
+   "spoken": "Xe thứ nhất vào các phòng ba mũ en, xe thứ hai năm mũ en, cứ thế mãi.",
+   "f0": 2045,
+   "f1": 2171,
+   "start": 68.167,
+   "end": 72.367
+  },
+  {
+   "i": 16,
+   "scene": "bus",
+   "vi": "Mỗi số chỉ phân tích ra thừa số nguyên tố theo một cách, nên không ai trùng phòng.",
+   "spoken": "Mỗi số chỉ phân tích ra thừa số nguyên tố theo một cách, nên không ai trùng phòng.",
+   "f0": 2202,
+   "f1": 2322,
+   "start": 73.4,
+   "end": 77.4
+  },
+  {
+   "i": 17,
+   "scene": "bus",
+   "vi": "Số nguyên tố: vô tận.",
+   "spoken": "Và số nguyên tố thì không bao giờ hết.",
+   "f0": 2344,
+   "f1": 2403,
+   "start": 78.133,
+   "end": 80.1
+  },
+  {
+   "i": 18,
+   "scene": "cantor",
+   "vi": "Nền móng: lý thuyết tập hợp của Georg Cantor.",
+   "spoken": "Nền móng của những điều này là lý thuyết tập hợp của Căng-to.",
+   "f0": 2449,
+   "f1": 2535,
+   "start": 81.633,
+   "end": 84.5
+  },
+  {
+   "i": 19,
+   "scene": "cantor",
+   "vi": "Lớn bằng nhau ⇔ ghép được một đổi một.",
+   "spoken": "Hai tập hợp lớn bằng nhau nếu ghép được một đổi một, không thừa ai.",
+   "f0": 2554,
+   "f1": 2655,
+   "start": 85.133,
+   "end": 88.5
+  },
+  {
+   "i": 20,
+   "scene": "cantor",
+   "vi": "|{1, 2, 3, …}| = ℵ₀ — vô hạn đếm được",
+   "spoken": "Tập các số đếm có kích thước gọi là a-lép không: vô hạn đếm được.",
+   "f0": 2684,
+   "f1": 2785,
+   "start": 89.467,
+   "end": 92.833
+  },
+  {
+   "i": 21,
+   "scene": "cantor",
+   "vi": "ℵ₀ + 1 = ℵ₀    ℵ₀ + ℵ₀ = ℵ₀    ℵ₀ · ℵ₀ = ℵ₀",
+   "spoken": "Thêm một người, hay thêm vô số xe, kích thước vẫn là a-lép không.",
+   "f0": 2808,
+   "f1": 2915,
+   "start": 93.6,
+   "end": 97.167
+  },
+  {
+   "i": 22,
+   "scene": "cantor",
+   "vi": "Phép tính trên kích thước tập hợp — ∞ không phải một số thông thường.",
+   "spoken": "Đây là phép tính trên kích thước, chứ vô cực không phải một con số bình thường.",
+   "f0": 2950,
+   "f1": 3061,
+   "start": 98.333,
+   "end": 102.033
+  },
+  {
+   "i": 23,
+   "scene": "twist",
+   "vi": "Vậy khách sạn này chứa được mọi thứ vô hạn sao?",
+   "spoken": "Vậy khách sạn này chứa được mọi thứ vô hạn sao?",
+   "f0": 3114,
+   "f1": 3185,
+   "start": 103.8,
+   "end": 106.167
+  },
+  {
+   "i": 24,
+   "scene": "twist",
+   "vi": "Không. Năm 1891, Cantor đưa ra lập luận đường chéo.",
+   "spoken": "Không. Năm một nghìn tám trăm chín mươi mốt, Căng-to đưa ra lập luận đường chéo.",
+   "f0": 3202,
+   "f1": 3347,
+   "start": 106.733,
+   "end": 111.567
+  },
+  {
+   "i": 25,
+   "scene": "twist",
+   "vi": "Mọi số thực giữa 0 và 1 — mỗi số một phòng?",
+   "spoken": "Thử xếp mọi số thực giữa không và một vào khách sạn, mỗi số một phòng.",
+   "f0": 3370,
+   "f1": 3477,
+   "start": 112.333,
+   "end": 115.9
+  },
+  {
+   "i": 26,
+   "scene": "twist",
+   "vi": "Chữ số thứ 1 ≠ phòng 1, chữ số thứ 2 ≠ phòng 2, …",
+   "spoken": "Rồi tạo một số mới: chữ số thứ nhất khác số ở phòng một, chữ số thứ hai khác số ở phòng hai, cứ thế mãi.",
+   "f0": 3506,
+   "f1": 3691,
+   "start": 116.867,
+   "end": 123.033
+  },
+  {
+   "i": 27,
+   "scene": "twist",
+   "vi": "Không phòng nào chứa nó.",
+   "spoken": "Số ấy khác mọi vị khách. Nó không có phòng.",
+   "f0": 3726,
+   "f1": 3821,
+   "start": 124.2,
+   "end": 127.367
+  },
+  {
+   "i": 28,
+   "scene": "twist",
+   "vi": "Số thực: không đếm được — một vô hạn lớn hơn ℵ₀.",
+   "spoken": "Số thực không thể đánh số hết. Đó là một vô hạn lớn hơn.",
+   "f0": 3847,
+   "f1": 3962,
+   "start": 128.233,
+   "end": 132.067
+  },
+  {
+   "i": 29,
+   "scene": "end",
+   "vi": "Hilbert: vô hạn không hề có trong thực tế.",
+   "spoken": "Chính Hin-bớt cho rằng vô hạn không hề có trong thực tế.",
+   "f0": 4055,
+   "f1": 4135,
+   "start": 135.167,
+   "end": 137.833
+  },
+  {
+   "i": 30,
+   "scene": "end",
+   "vi": "“Không ai đuổi được chúng ta khỏi thiên đường mà Cantor đã tạo ra.” — Hilbert, 1925",
+   "spoken": "Nhưng ông vẫn nói: không ai đuổi được chúng ta khỏi thiên đường mà Căng-to đã tạo ra.",
+   "f0": 4154,
+   "f1": 4279,
+   "start": 138.467,
+   "end": 142.633
+  },
+  {
+   "i": 31,
+   "scene": "end",
+   "vi": "Một khách sạn kín phòng… mà cửa vẫn luôn mở cho thêm một vị khách.",
+   "spoken": "Một khách sạn kín phòng… mà cửa vẫn luôn mở cho thêm một vị khách.",
+   "f0": 4314,
+   "f1": 4408,
+   "start": 143.8,
+   "end": 146.933
+  }
+ ]
+}
