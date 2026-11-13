@@ -7,6 +7,7 @@ import {EP55_FRAMES, EP55_H, EP55_W, Ep55Pi} from './episodes/ep55-pi/Ep55Pi';
 import {EP55V2_FRAMES, Ep55PiV2} from './episodes/ep55-pi/v2/Ep55PiV2';
 import {EP56_FRAMES, EP56_H, EP56_W, Ep56Hilbert} from './episodes/ep56-hilbert/Ep56Hilbert';
 import {EP57_FRAMES, EP57_H, EP57_W, Ep57Monty} from './episodes/ep57-monty/Ep57Monty';
+import {GIONG_FRAMES, GIONG_H, GIONG_W, Giong} from './episodes/giong/Giong';
 import {EP58_FRAMES, EP58_H, EP58_W, Ep58Rice} from './episodes/ep58-rice/Ep58Rice';
 import {Ep00Demo} from './episodes/ep00-demo/Ep00Demo';
 import {DURATION as EP00_DURATION, FPS, H as EP00_H, W as EP00_W} from './episodes/ep00-demo/lib/timeline';
@@ -243,6 +244,7 @@ export const Root: React.FC = () => (
       <Composition id="ep55-pi-v2" component={Ep55PiV2} durationInFrames={EP55V2_FRAMES} fps={30} width={1920} height={1080} />
       <Composition id="ep56-hilbert" component={Ep56Hilbert} durationInFrames={EP56_FRAMES} fps={30} width={EP56_W} height={EP56_H} />
       <Composition id="ep57-monty" component={Ep57Monty} durationInFrames={EP57_FRAMES} fps={30} width={EP57_W} height={EP57_H} />
+      <Composition id="giong-test" component={Giong} durationInFrames={GIONG_FRAMES} fps={30} width={GIONG_W} height={GIONG_H} />
       <Composition id="ep58-rice" component={Ep58Rice} durationInFrames={EP58_FRAMES} fps={30} width={EP58_W} height={EP58_H} />
     </Folder>
     <Folder name="99-素材预览">
