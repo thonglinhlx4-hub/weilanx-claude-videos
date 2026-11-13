@@ -228,7 +228,7 @@ export const Giong: React.FC = () => {
       <Diep f={f} />
       <PaperGrain f={f} />
       <AbsoluteFill style={{boxShadow: 'inset 0 0 160px rgba(60,35,10,0.45)', pointerEvents: 'none'}} />
-      <Audio src={staticFile('giong/mix.wav')} />
+      <Audio src={staticFile('audio/giong/mix.wav')} />
     </AbsoluteFill>
   );
 };
