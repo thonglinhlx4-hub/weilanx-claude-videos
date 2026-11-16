@@ -119,7 +119,7 @@ export const FoodMap: React.FC = () => {
             const segI = segs.findIndex((s) => s.id === it.id);
             const s0 = segs[segI].start;
             const isActive = it.id === activeId;
-            const s1 = segs[segI].end;
+            const s1 = segs[segI + 1].start;
             const flash = isActive ? interpolate(t - s0, [0, 0.15, 0.6], [0.1, 0.5, 0.36], {extrapolateRight: 'clamp'}) : 0;
             // done regions keep a soft white wash (like the reference); untold ones stay clear
             const done = t >= s1 ? interpolate(t - s1, [0, 0.35], [0.36, 0.3], {extrapolateRight: 'clamp'}) : 0;
