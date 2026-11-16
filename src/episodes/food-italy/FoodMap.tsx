@@ -19,7 +19,13 @@ const items = geo.items as Item[];
 const segs = timeline.segs as Seg[];
 const BASE = 'food/italy';
 
-const OVERVIEW = {x: geo.W * 0.5, y: geo.H * 0.5, s: 0.38};
+const xs = (geo.items as Item[]).map((i) => i.x);
+const ys = (geo.items as Item[]).map((i) => i.y);
+const OVERVIEW = {
+  x: (Math.min(...xs) + Math.max(...xs)) / 2,
+  y: (Math.min(...ys) + Math.max(...ys)) / 2 + 40,
+  s: Math.min(940 / (Math.max(...xs) - Math.min(...xs) + 260), 1450 / (Math.max(...ys) - Math.min(...ys) + 300)),
+};
 const ZOOM: Record<string, number> = {sardegna: 0.9, sicilia: 0.9, puglia: 0.95, calabria: 0.95};
 const camFor = (it: Item) => ({x: it.x, y: it.y + 150, s: ZOOM[it.id] ?? 1.05});
 const ease = Easing.bezier(0.45, 0, 0.2, 1);
