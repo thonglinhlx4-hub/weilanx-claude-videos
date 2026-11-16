@@ -149,17 +149,17 @@ export const FoodMap: React.FC = () => {
       </div>
 
       {/* small corner tag after intro */}
-      <div style={{position: 'absolute', top: 120, left: 60, display: 'flex', alignItems: 'center', gap: 14, opacity: 1 - titleOut}}>
+      <div style={{position: 'absolute', top: 120, left: 60, display: 'flex', alignItems: 'center', gap: 14, opacity: inOutro ? 0 : 1 - titleOut}}>
         <Flag h={34} />
         <div style={{fontFamily, fontWeight: 900, fontSize: 34, color: '#fff', WebkitTextStroke: '2px #000', paintOrder: 'stroke fill', textTransform: 'uppercase'}}>Italy · Food Map</div>
       </div>
 
       {/* caption */}
       {seg && seg.id !== 'intro' && words.length > 0 && (
-        <div style={{position: 'absolute', bottom: 330, width: '100%', padding: '0 70px', display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0 22px', transform: `scale(${0.9 + 0.1 * capPop})`}}>
+        <div style={{position: 'absolute', ...(inOutro ? {top: 150} : {bottom: 330}), width: '100%', padding: '0 70px', display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0 22px', transform: `scale(${0.9 + 0.1 * capPop})`}}>
           {words.map((w, i) => (
             <span key={i} style={{fontFamily, fontWeight: 900, fontSize: 92, lineHeight: 1.08, textTransform: 'uppercase', color: i === curWord ? '#FFD84D' : '#fff', WebkitTextStroke: '6px #000', paintOrder: 'stroke fill', textShadow: '0 8px 24px rgba(0,0,0,.55)'}}>
-              {w.w}
+              {w.w}{inOutro && i === seg.words.length - 1 ? '?' : ''}
             </span>
           ))}
         </div>
