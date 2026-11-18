@@ -9,6 +9,7 @@ import {EP56_FRAMES, EP56_H, EP56_W, Ep56Hilbert} from './episodes/ep56-hilbert/
 import {EP57_FRAMES, EP57_H, EP57_W, Ep57Monty} from './episodes/ep57-monty/Ep57Monty';
 import {FOOD_FRAMES, FOOD_H, FOOD_W, FoodMap} from './episodes/food-italy/FoodMap';
 import {VN_FRAMES, VN_H, VN_W, FoodMapVN} from './episodes/food-vietnam/FoodMap';
+import {FR_FRAMES, FR_H, FR_W, FoodMapFR} from './episodes/food-france/FoodMap';
 import {GIONG_FRAMES, GIONG_H, GIONG_W, Giong} from './episodes/giong/Giong';
 import {EP58_FRAMES, EP58_H, EP58_W, Ep58Rice} from './episodes/ep58-rice/Ep58Rice';
 import {Ep00Demo} from './episodes/ep00-demo/Ep00Demo';
@@ -249,6 +250,7 @@ export const Root: React.FC = () => (
       <Composition id="giong-test" component={Giong} durationInFrames={GIONG_FRAMES} fps={30} width={GIONG_W} height={GIONG_H} />
       <Composition id="food-italy" component={FoodMap} durationInFrames={FOOD_FRAMES} fps={30} width={FOOD_W} height={FOOD_H} />
       <Composition id="food-vietnam" component={FoodMapVN} durationInFrames={VN_FRAMES} fps={30} width={VN_W} height={VN_H} />
+      <Composition id="food-france" component={FoodMapFR} durationInFrames={FR_FRAMES} fps={30} width={FR_W} height={FR_H} />
       <Composition id="ep58-rice" component={Ep58Rice} durationInFrames={EP58_FRAMES} fps={30} width={EP58_W} height={EP58_H} />
     </Folder>
     <Folder name="99-素材预览">
